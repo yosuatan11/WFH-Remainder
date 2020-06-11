@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419093435933",
+    "firebase_url": "https://wfh-remainder.firebaseio.com",
+    "project_id": "wfh-remainder",
+    "storage_bucket": "wfh-remainder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419093435933:android:ace4417fc733d8c07358f4",
+        "android_client_info": {
+          "package_name": "com.yosua.wfhremainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419093435933-6ubg5kj14398aurd3tu5bnbbn228s36r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_eyVsNghucHEVZ_x3uHBHrKaD-EnesHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419093435933-6ubg5kj14398aurd3tu5bnbbn228s36r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
